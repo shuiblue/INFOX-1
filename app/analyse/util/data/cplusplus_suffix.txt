@@ -3,3 +3,5 @@
 .cc
 .cpp
 .hpp
+.pde
+.ino
